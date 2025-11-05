@@ -17,6 +17,22 @@ We manage vehicles, slots, and each parking session (entry_exit). Payments store
 
 <img width="1030" height="519" alt="image" src="https://github.com/user-attachments/assets/9bbbbf46-f6e7-4e34-b89a-2af9b4944bbd" />
 
+Triggers in action:
+These triggers update slot status automatically on insert/update.
+<img width="1058" height="947" alt="image" src="https://github.com/user-attachments/assets/9e4d59ab-bcb9-467d-9239-aa585f60fe9c" />
+
+<img width="1030" height="514" alt="image" src="https://github.com/user-attachments/assets/8a96f6c0-d787-476b-8d39-8f69582ec487" />
+
+Stored procedure & views:
+Procedure computes duration x rate and inserts into Payments. Views give simple dashboards.
+<img width="846" height="940" alt="image" src="https://github.com/user-attachments/assets/71803790-15bd-4804-bb86-17d86a67c7b7" />
+
+
+
+
+
+
+
 
 
 
