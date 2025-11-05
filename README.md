@@ -30,7 +30,9 @@ Initial stage of Parking Dashboard:
 
 <img width="1233" height="823" alt="image" src="https://github.com/user-attachments/assets/01656e70-c317-421f-a46d-39a62070a7b9" />
 
+
 <img width="1233" height="810" alt="image" src="https://github.com/user-attachments/assets/557f09e5-ca1c-4531-811b-39fc970e1b70" />
+
 
 <img width="1916" height="971" alt="image" src="https://github.com/user-attachments/assets/b64aed5a-74ae-45c9-8996-0a807bef25fe" />
 
@@ -40,6 +42,7 @@ We manage vehicles, slots, and each parking session (entry_exit). Payments store
 
 <img width="953" height="951" alt="image" src="https://github.com/user-attachments/assets/115e11fd-6dc3-4269-925d-e969bb172c83" />
 
+
 <img width="1030" height="519" alt="image" src="https://github.com/user-attachments/assets/9bbbbf46-f6e7-4e34-b89a-2af9b4944bbd" />
 
 Triggers in action:
@@ -47,6 +50,7 @@ Triggers in action:
 These triggers update slot status automatically on insert/update.
 
 <img width="1058" height="947" alt="image" src="https://github.com/user-attachments/assets/9e4d59ab-bcb9-467d-9239-aa585f60fe9c" />
+
 
 <img width="1030" height="514" alt="image" src="https://github.com/user-attachments/assets/8a96f6c0-d787-476b-8d39-8f69582ec487" />
 
@@ -62,15 +66,21 @@ The GUI uses the same database.
 
 <img width="1918" height="1019" alt="image" src="https://github.com/user-attachments/assets/ab540cf7-2229-4731-b489-8f9d4358beff" />
 
+
 <img width="1918" height="986" alt="image" src="https://github.com/user-attachments/assets/73b89342-c6bf-4205-816f-13f324372407" />
+
 
 <img width="1914" height="966" alt="image" src="https://github.com/user-attachments/assets/f007c4f3-36a3-46a9-9350-7137c301305e" />
 
+
 <img width="1916" height="969" alt="image" src="https://github.com/user-attachments/assets/6e60ccd5-1ad9-477f-abb1-1d86d7106b0c" />
+
 
 <img width="1918" height="971" alt="image" src="https://github.com/user-attachments/assets/9b547cf6-8f57-4072-b958-b51833e491ae" />
 
+
 <img width="1915" height="963" alt="image" src="https://github.com/user-attachments/assets/dbab2a59-fa3b-4fd6-bc7c-8a8e2f505721" />
+
 
 <img width="1915" height="989" alt="image" src="https://github.com/user-attachments/assets/873c99b6-1126-4419-b5f5-9e803e557c63" />
 
