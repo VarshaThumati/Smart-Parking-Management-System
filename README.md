@@ -27,6 +27,34 @@ Stored procedure & views:
 Procedure computes duration x rate and inserts into Payments. Views give simple dashboards.
 <img width="846" height="940" alt="image" src="https://github.com/user-attachments/assets/71803790-15bd-4804-bb86-17d86a67c7b7" />
 
+Demo using GUI:
+The GUI uses the same database.
+<img width="1918" height="1019" alt="image" src="https://github.com/user-attachments/assets/ab540cf7-2229-4731-b489-8f9d4358beff" />
+
+<img width="1918" height="986" alt="image" src="https://github.com/user-attachments/assets/73b89342-c6bf-4205-816f-13f324372407" />
+
+<img width="1914" height="966" alt="image" src="https://github.com/user-attachments/assets/f007c4f3-36a3-46a9-9350-7137c301305e" />
+
+<img width="1916" height="969" alt="image" src="https://github.com/user-attachments/assets/6e60ccd5-1ad9-477f-abb1-1d86d7106b0c" />
+
+<img width="1918" height="971" alt="image" src="https://github.com/user-attachments/assets/9b547cf6-8f57-4072-b958-b51833e491ae" />
+
+<img width="1915" height="963" alt="image" src="https://github.com/user-attachments/assets/dbab2a59-fa3b-4fd6-bc7c-8a8e2f505721" />
+
+<img width="1915" height="989" alt="image" src="https://github.com/user-attachments/assets/873c99b6-1126-4419-b5f5-9e803e557c63" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
